@@ -10,6 +10,7 @@ int main() {
     std::cout << "Введите второе число: ";
     std::cin >> num2;
 
+
     // Вычисляем сумму чисел
     int sum = num1 + num2;
 
