@@ -50,7 +50,7 @@ int main() {
             cout << "Результат: " << divide(num1, num2) << endl;
             break;
         default:
-            cout << "Некорректный ввод операции" << endl;
+            cout << "Некорректный ввод операции(" << endl;
     }
 
     return 0;
