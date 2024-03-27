@@ -53,5 +53,5 @@ int main() {
             cout << "Некорректный ввод операции(" << endl;
     }
 
-    return 00;
+    return 000;
 }
