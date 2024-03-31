@@ -6,7 +6,7 @@ float add(float num1, float num2) {
     return num1 + num2;
 }
 
-// Функция для выполнения операции вычитания.
+// Функция для выполнения операции вычитания
 float subtract(float num1, float num2) {
     return num1 - num2;
 }
