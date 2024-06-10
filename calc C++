@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;.......
 
-.....456456465
+.....
 // Функция для выполнения операции сложения
 float add(float num1, float num2) {
     return num1 + num2;
