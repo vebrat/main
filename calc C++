@@ -2,7 +2,6 @@
 using namespace std;
 
 
-
 // Функция для выполнения операции сложения!
 float add(float num1, float num2) {
     return num1 + num2;
